@@ -26,7 +26,7 @@ Inicialmente, Sensaria se centrará en ebooks, con proyecciones a escalar hacia 
   - Videos formativos  
   - Comunidad online  
 - **Equipo fundador:**  
-  - David Quiróz y su socio (desarrollador web)
+  - David Quiróz y Nahin Mendoza
 
 ---
 
