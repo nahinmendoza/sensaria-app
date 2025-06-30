@@ -1,4 +1,4 @@
-# sensaria-app
+# SENSARIA-app
 "Plataforma educativa de atención al cliente"
 
 1. Plan de Negocio
